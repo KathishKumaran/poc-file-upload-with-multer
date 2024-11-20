@@ -9,9 +9,9 @@ This has the javascript code which uses nestjs framework to serve frontend appli
 ### Initial setup
 
 ```
- $ git clone https://github.com/copper-malawi/Malawi-Ticketing-System-Back-End.git
+ $ git clone https://github.com/KathishKumaran/poc-file-upload-with-multer.git
 
- $ cd Malawi-Ticketing-System-Back-End
+ $ cd poc-file-upload-with-multer
 
  $ npm install
 ```

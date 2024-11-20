@@ -3,7 +3,7 @@ import * as moment from 'moment';
 
 const logLevel = process.env.LOG_LEVEL || 'info';
 const logConfig = {
-  name: 'Ticketing System API Server',
+  name: 'POC API Server',
   level: logLevel,
   timestamp: () => `,"time":"${moment()}"`,
   formatters: {

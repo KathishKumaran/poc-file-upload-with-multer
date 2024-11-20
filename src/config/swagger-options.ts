@@ -1,7 +1,7 @@
 import { DocumentBuilder } from '@nestjs/swagger';
 
 export const swaggerOption = new DocumentBuilder()
-  .setTitle("Ticketing System API's")
+  .setTitle("Poc API's")
   .setDescription(
     'Building a blazing fast REST API with Node.js, Postgresql, Nest and Swagger',
   )
